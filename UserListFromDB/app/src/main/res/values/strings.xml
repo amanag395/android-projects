@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserListFromDB</string>
+    <string name="show_list">Show List</string>
+    <string name="add_user">Add User</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApi</string>
+    <string name="login">Login</string>
+    <string name="login_hint">Enter Username</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="mobile_no_hint">Enter Mobile No</string>
+    <string name="logout">Log Out</string>
+</resources>

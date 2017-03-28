@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_employee">View Employee</string>
+    <string name="exit_bt">Exit</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="id">ID</string>
+    <string name="hint_id">Enter unique id</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="salary">Salary</string>
+    <string name="department">Department</string>
+    <string name="hint_salary">Enter Salary</string>
+    <string name="exit">Are, you sure you want to exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="app_name">EMS</string>
+</resources>

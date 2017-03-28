@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="chat_request">Chat Request</string>
+    <string name="someone_else">Is this for you or someone else?</string>
+    <string name="you">You</string>
+    <string name="add">Add Someone</string>
+    <string name="describe">Describe Your Problem</string>
+    <string name="taking_any">Taking any medicine(optional)</string>
+    <string name="allergies">Allergies to medicene, food etc?</string>
+    <string name="chat_with">Chat With</string>
+    <string name="avaliable_doctor">Avaliable Doctor</string>
+    <string name="please_wait">Please wait</string>
+    <string name="here_is_your">Here is your question</string>
+    <string name="while_we_are">While we try to connect you with a doctor</string>
+    <string name="message">Message</string>
+</resources>

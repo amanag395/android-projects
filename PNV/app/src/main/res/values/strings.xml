@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PNV</string>
+    <string name="country_code">Country Code</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="next">Next</string>
+    <string name="verify">Varification Mobile No.</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="email">Email</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Enter Your Password</string>
+    <string name="describe">Discription</string>
+    <string name="hint_describe">Something About You</string>
+    <string name="finish">Finish</string>
+    <string name="hint_desc">Nothing to show</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <Button
+        android:id="@+id/bt_new_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bt_color"
+        android:text="@string/new_game"
+        android:textStyle="bold"/>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3"
+        android:rowCount="3">
+
+        <ImageView
+            android:id="@+id/iv_00"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_01"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_02"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_10"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_11"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_12"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_20"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_21"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+        <ImageView
+            android:id="@+id/iv_22"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@color/red" />
+
+
+    </GridLayout>
+</LinearLayout>

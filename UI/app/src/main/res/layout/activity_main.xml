@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:orientation="vertical"
+    tools:context="craterzone.ui.craterzone.avtivity.MainActivity">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/colorGray"></View>
+
+    <TextView
+        android:layout_marginLeft="@dimen/margine_small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/someone_else"
+        android:textSize="@dimen/font_size_medium"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></android.support.v7.widget.RecyclerView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/colorGray"></View>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margine_small"
+        android:layout_marginRight="@dimen/margine_small"
+        android:text="@string/describe"
+        android:textSize="@dimen/font_size_large"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/et_describe"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="@dimen/margine_small"
+        android:layout_marginRight="@dimen/margine_small"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:hint="@string/describe"
+        android:textSize="@dimen/font_size_medium" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margine_small"
+        android:layout_marginRight="@dimen/margine_small"
+        android:hint="@string/taking_any"
+        android:textSize="@dimen/font_size_medium" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margine_small"
+        android:layout_marginRight="@dimen/margine_small"
+        android:hint="@string/allergies"
+        android:textSize="@dimen/font_size_medium" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="left"
+        android:src="@drawable/image1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:gravity="center"
+        android:text="@string/chat_with"
+        android:textColor="@color/colorButton" />
+
+    <Button
+        android:id="@+id/bt_avaliable"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="@dimen/margine_medium"
+        android:layout_marginRight="@dimen/margine_medium"
+        android:background="@color/colorButton"
+        android:text="@string/avaliable_doctor"
+        android:textColor="@color/colorWhite"
+        android:layout_marginBottom="@dimen/margine_small"/>
+</LinearLayout>

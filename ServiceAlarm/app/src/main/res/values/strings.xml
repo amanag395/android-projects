@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServiceAlarm</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="hint_add">Enter time in Seconds</string>
+    <string name="add_task">Add Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="hint_name">Enter Task Name</string>
+
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/verify"
+        android:gravity="center"
+        android:textSize="@dimen/font_size_medium"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tv_moblie_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/font_size_medium"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    <EditText
+        android:id="@+id/et_code"
+        android:layout_gravity="center"
+        android:layout_width="@dimen/country_code_wridth"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:numeric="integer"
+        android:textSize="@dimen/font_size_medium"/>
+    <Button
+        android:id="@+id/bt_sec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Day4</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="hint_first_name">Enter Your First Name</string>
+    <string name="hint_last_name">Enter Your Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="registration">Registration Form</string>
+    <!--<item type="id" name="activity"></item>-->
+    <string name="register">Register</string>
+</resources>

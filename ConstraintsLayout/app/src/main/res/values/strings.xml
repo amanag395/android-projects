@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintsLayout</string>
+    <string name="hint_taking_medicine">Taking any medicine(optional)</string>
+    <string name="hint_allergies">Allergies to medicine, food etc?</string>
+    <string name="available">Available Doctor</string>
+    <string name="chat_with">Chat With</string>
+    <string name="describe">Describe Your Problem</string>
+    <string name="is_this_for_you">Is this for you or someone else?</string>
+</resources>

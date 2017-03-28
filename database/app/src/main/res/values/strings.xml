@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="hint_user_name">Enter User Name</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="register_user">Register User</string>
+    <string name="back">Back</string>
+    <string name="describe">Description</string>
+    <string name="hint_describe">Something about yourself</string>
+    <string name="logout">Log Out</string>
+    <string name="viewusers">View Users</string>
+
+</resources>

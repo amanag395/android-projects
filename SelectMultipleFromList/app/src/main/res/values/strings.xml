@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Action Bar</string>
+    <string name="country_list">Country List</string>
+    <string name="delete">Delete Selected Country</string>
+    <string name="add_country">Add Country</string>
+    <string name="sort_a">Sort A to Z</string>
+    <string name="sort_z">Sort Z to A</string>
+</resources>
